@@ -1,0 +1,1 @@
+Amazon Clone is a home page of amazon which is created by using the front end technology like HTML and CSS .HTML is used to build the website or to display the content and css is used to display the design
